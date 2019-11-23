@@ -1,0 +1,6 @@
+{
+  "name": "Fabric Theme",
+  "version": "1.0.0",
+  "description": "A Zazu theme inspired by Microsoft's Office UI Fabric.",
+  "stylesheet": "dist/main.css"
+}

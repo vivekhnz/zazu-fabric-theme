@@ -12,7 +12,7 @@ Specify `vivekhnz/zazu-fabric-theme` inside of your `~/.zazurc.json` file.
 
 ``` json
 {
-  "theme": "tinytacoteam/zazu-light-theme"
+  "theme": "vivekhnz/zazu-fabric-theme"
 }
 ```
 
